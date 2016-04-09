@@ -10,3 +10,4 @@ rownames(B)<-paste("3/",12:16,sep='')
 temp_data<-cbind(A,B)
 
 isim<-"Erokan"
+soyad<-"Canbazoğlu"
