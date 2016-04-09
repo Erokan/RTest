@@ -11,3 +11,4 @@ temp_data<-cbind(A,B)
 
 isim<-"Erokan"
 soyad<-"Canbazoğlu"
+sehir<-"Antalya"
